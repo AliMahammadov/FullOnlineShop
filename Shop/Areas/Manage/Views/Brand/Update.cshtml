@@ -1,0 +1,18 @@
+﻿@using Shop.Models.HomeShop;
+@using Shop.ViewModels.HomeShopVM.BrandVM;
+
+@{
+    ViewData["Title"] = "Update";
+}
+@model UpdateBrandVM
+
+<div>
+    <form method="post" enctype="multipart/form-data">
+        <div class="form-group">
+            <label asp-for="Image">Image</label>
+            <input asp-for="Image" class="form-control" id="formGroupExampleInput" placeholder="Example input">
+            <span class="text-danger" asp-validation-for="Image"></span>
+        </div>
+        <button type="submit" class="btn btn-primary">Update brand</button>
+    </form>
+</div>

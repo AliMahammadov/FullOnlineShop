@@ -1,0 +1,1317 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Shop.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Shop.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\css\\maps\\style.css.map",
+      "PackagePath": "staticwebassets\\Admin\\css\\maps\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\css\\style.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\documentation\\.DS_Store",
+      "PackagePath": "staticwebassets\\Admin\\documentation\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\documentation\\documentation.html",
+      "PackagePath": "staticwebassets\\Admin\\documentation\\documentation.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\fonts\\.DS_Store",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\fonts\\Roboto\\.DS_Store",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Black.eot",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Black.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Black.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Black.woff",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Black.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Black.woff2",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Black.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Bold.eot",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Bold.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Bold.woff",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Bold.woff2",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Light.eot",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Light.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Light.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Light.woff",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Light.woff2",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Light.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Medium.eot",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Medium.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Medium.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Medium.woff",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Medium.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Medium.woff2",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Medium.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Regular.eot",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Regular.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Regular.woff",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Regular.woff2",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\gulpfile.js",
+      "PackagePath": "staticwebassets\\Admin\\gulpfile.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\images\\.DS_Store",
+      "PackagePath": "staticwebassets\\Admin\\images\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\images\\Brand\\07bc2b4c-7508-436a-b57d-b5edc9fbccf7Screenshot 2023-03-01 144530.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\Brand\\07bc2b4c-7508-436a-b57d-b5edc9fbccf7Screenshot 2023-03-01 144530.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\images\\Brand\\0f736462-4082-4be3-bc57-0f83f4a976e8Screenshot_20221230_081058.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\Brand\\0f736462-4082-4be3-bc57-0f83f4a976e8Screenshot_20221230_081058.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\images\\Brand\\0f765b25-5449-47bd-868a-bb1d23d81b55Screenshot 2023-03-01 144530.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\Brand\\0f765b25-5449-47bd-868a-bb1d23d81b55Screenshot 2023-03-01 144530.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\images\\Brand\\10ac31b1-1dea-4125-a095-22e4e7dcc095Screenshot 2023-03-01 142405.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\Brand\\10ac31b1-1dea-4125-a095-22e4e7dcc095Screenshot 2023-03-01 142405.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\images\\Brand\\11692b29-f190-40f3-85d0-adfe03930682Screenshot 2023-03-01 142541.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\Brand\\11692b29-f190-40f3-85d0-adfe03930682Screenshot 2023-03-01 142541.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\images\\Brand\\14ca8b95-3f3e-48ca-bb39-3cc57cd8383aScreenshot_20230103_024801.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\Brand\\14ca8b95-3f3e-48ca-bb39-3cc57cd8383aScreenshot_20230103_024801.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\images\\Brand\\153c8754-a990-4e9e-b9af-53a3e5963542Screenshot 2023-03-06 185151.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\Brand\\153c8754-a990-4e9e-b9af-53a3e5963542Screenshot 2023-03-06 185151.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\images\\Brand\\176add0d-56b4-4e3a-8078-74b3eeed9c60Screenshot 2023-03-06 185151.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\Brand\\176add0d-56b4-4e3a-8078-74b3eeed9c60Screenshot 2023-03-06 185151.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\images\\Brand\\24d1abe5-05d0-40e3-a480-1c19f5d038aaScreenshot 2023-03-01 144208.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\Brand\\24d1abe5-05d0-40e3-a480-1c19f5d038aaScreenshot 2023-03-01 144208.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\images\\Brand\\2f12118e-102c-4e9a-9e13-1867d309d7eaScreenshot 2023-04-02 013306.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\Brand\\2f12118e-102c-4e9a-9e13-1867d309d7eaScreenshot 2023-04-02 013306.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\images\\Brand\\3aeaeb1c-57a5-4a1b-8104-9518108ddeaaScreenshot_20230219_110450.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\Brand\\3aeaeb1c-57a5-4a1b-8104-9518108ddeaaScreenshot_20230219_110450.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\images\\Brand\\3b2c06ac-3659-4392-aa36-8f0d803bb918Screenshot 2023-03-01 142405.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\Brand\\3b2c06ac-3659-4392-aa36-8f0d803bb918Screenshot 2023-03-01 142405.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\images\\Brand\\6b603670-1f6f-4980-9731-f0c19953f433Screenshot 2023-03-01 144530.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\Brand\\6b603670-1f6f-4980-9731-f0c19953f433Screenshot 2023-03-01 144530.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\images\\Brand\\78b43161-51af-4125-a42f-884b53115ebeScreenshot 2023-03-01 144530.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\Brand\\78b43161-51af-4125-a42f-884b53115ebeScreenshot 2023-03-01 144530.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\images\\Brand\\792f535a-eced-4b7f-b0f8-51adf9dbc09dScreenshot_20230103_024801.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\Brand\\792f535a-eced-4b7f-b0f8-51adf9dbc09dScreenshot_20230103_024801.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\images\\Brand\\8ebda995-da99-4122-a240-01495ab34ec4Screenshot_20230219_110450.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\Brand\\8ebda995-da99-4122-a240-01495ab34ec4Screenshot_20230219_110450.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\images\\Brand\\a0d809cb-3b62-4389-9ec8-830c6a6a981bScreenshot_20230119_103629.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\Brand\\a0d809cb-3b62-4389-9ec8-830c6a6a981bScreenshot_20230119_103629.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\images\\Brand\\a18ad5a2-c47a-4331-a3d1-cce3b6d62fbeScreenshot 2023-03-01 142405.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\Brand\\a18ad5a2-c47a-4331-a3d1-cce3b6d62fbeScreenshot 2023-03-01 142405.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\images\\Brand\\a96e4344-0fec-4066-8364-a71a5a5e93dfScreenshot 2023-04-27 195945.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\Brand\\a96e4344-0fec-4066-8364-a71a5a5e93dfScreenshot 2023-04-27 195945.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\images\\Brand\\c13fbbab-00d2-4d1b-ba84-c9f6304e4ebcWhatsApp Image 2023-04-15 at 09.26.22 - Copy.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\Brand\\c13fbbab-00d2-4d1b-ba84-c9f6304e4ebcWhatsApp Image 2023-04-15 at 09.26.22 - Copy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\images\\Brand\\c914cdf5-015d-43f7-b4e1-b6105783f7acScreenshot_20230219_110450.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\Brand\\c914cdf5-015d-43f7-b4e1-b6105783f7acScreenshot_20230219_110450.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\images\\Brand\\d28c463a-0f33-4926-a2a9-9b410d44c536Screenshot_20230122_125723.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\Brand\\d28c463a-0f33-4926-a2a9-9b410d44c536Screenshot_20230122_125723.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\images\\Brand\\e0ca1335-42ce-45dc-9692-b8deef2cdaaeScreenshot_20230122_125338.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\Brand\\e0ca1335-42ce-45dc-9692-b8deef2cdaaeScreenshot_20230122_125338.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\images\\Brand\\eafe9b5b-37bb-490f-b7bf-24889cee5bacScreenshot_20230219_110450.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\Brand\\eafe9b5b-37bb-490f-b7bf-24889cee5bacScreenshot_20230219_110450.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\images\\Brand\\f2effa40-60ab-4679-b2fa-c773e9421ceaScreenshot_20230219_110450.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\Brand\\f2effa40-60ab-4679-b2fa-c773e9421ceaScreenshot_20230219_110450.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\images\\Brand\\f8465f33-af08-40e9-91a8-3eba178decac+994 55 628 08 99 20230215_001326.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\Brand\\f8465f33-af08-40e9-91a8-3eba178decac+994 55 628 08 99 20230215_001326.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\images\\auth\\.DS_Store",
+      "PackagePath": "staticwebassets\\Admin\\images\\auth\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\images\\auth\\lockscreen-bg.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\auth\\lockscreen-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\images\\auth\\login-bg.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\auth\\login-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\images\\auth\\register-bg.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\auth\\register-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\images\\faces\\.DS_Store",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\Admin\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\Admin\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\Admin\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\js\\.DS_Store",
+      "PackagePath": "staticwebassets\\Admin\\js\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\js\\chart.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\chart.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\js\\data-table.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\data-table.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\js\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\js\\documentation.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\documentation.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\js\\file-upload.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\file-upload.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\js\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\hoverable-collapse.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\js\\jquery.cookie.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\jquery.cookie.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\js\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\off-canvas.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\js\\tabs.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\tabs.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\js\\template.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\template.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\pages\\.DS_Store",
+      "PackagePath": "staticwebassets\\Admin\\pages\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\pages\\charts\\.DS_Store",
+      "PackagePath": "staticwebassets\\Admin\\pages\\charts\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\pages\\charts\\chartjs.html",
+      "PackagePath": "staticwebassets\\Admin\\pages\\charts\\chartjs.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\pages\\forms\\.DS_Store",
+      "PackagePath": "staticwebassets\\Admin\\pages\\forms\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\pages\\forms\\basic_elements.html",
+      "PackagePath": "staticwebassets\\Admin\\pages\\forms\\basic_elements.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\pages\\icons\\.DS_Store",
+      "PackagePath": "staticwebassets\\Admin\\pages\\icons\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\pages\\icons\\mdi.html",
+      "PackagePath": "staticwebassets\\Admin\\pages\\icons\\mdi.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\pages\\samples\\.DS_Store",
+      "PackagePath": "staticwebassets\\Admin\\pages\\samples\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\pages\\samples\\lock-screen.html",
+      "PackagePath": "staticwebassets\\Admin\\pages\\samples\\lock-screen.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\pages\\samples\\login-2.html",
+      "PackagePath": "staticwebassets\\Admin\\pages\\samples\\login-2.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\pages\\samples\\login.html",
+      "PackagePath": "staticwebassets\\Admin\\pages\\samples\\login.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\pages\\samples\\register-2.html",
+      "PackagePath": "staticwebassets\\Admin\\pages\\samples\\register-2.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\pages\\samples\\register.html",
+      "PackagePath": "staticwebassets\\Admin\\pages\\samples\\register.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\pages\\tables\\.DS_Store",
+      "PackagePath": "staticwebassets\\Admin\\pages\\tables\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\pages\\tables\\basic-table.html",
+      "PackagePath": "staticwebassets\\Admin\\pages\\tables\\basic-table.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\pages\\ui-features\\.DS_Store",
+      "PackagePath": "staticwebassets\\Admin\\pages\\ui-features\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\pages\\ui-features\\buttons.html",
+      "PackagePath": "staticwebassets\\Admin\\pages\\ui-features\\buttons.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\pages\\ui-features\\typography.html",
+      "PackagePath": "staticwebassets\\Admin\\pages\\ui-features\\typography.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\partials\\_footer.html",
+      "PackagePath": "staticwebassets\\Admin\\partials\\_footer.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\partials\\_navbar.html",
+      "PackagePath": "staticwebassets\\Admin\\partials\\_navbar.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\partials\\_settings-panel.html",
+      "PackagePath": "staticwebassets\\Admin\\partials\\_settings-panel.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\partials\\_sidebar.html",
+      "PackagePath": "staticwebassets\\Admin\\partials\\_sidebar.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\scss\\.DS_Store",
+      "PackagePath": "staticwebassets\\Admin\\scss\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\scss\\_background.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\scss\\_demo.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_demo.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\scss\\_fonts.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_fonts.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\scss\\_layouts.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_layouts.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\scss\\_misc.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\scss\\_reset.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_reset.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\scss\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_sidebar.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\scss\\_typography.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_typography.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\scss\\_vertical-wrapper.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_vertical-wrapper.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\scss\\components\\.DS_Store",
+      "PackagePath": "staticwebassets\\Admin\\scss\\components\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\scss\\components\\_badges.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\components\\_badges.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\scss\\components\\_bootstrap-progress.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\components\\_bootstrap-progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\scss\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\components\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\scss\\components\\_cards.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\components\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\scss\\components\\_checkbox-radio.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\components\\_checkbox-radio.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\scss\\components\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\components\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\scss\\components\\_forms.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\components\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\scss\\components\\_icons.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\components\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\scss\\components\\_lists.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\components\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\scss\\components\\_tables.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\components\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\scss\\components\\plugin-overrides\\_data-tables.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\components\\plugin-overrides\\_data-tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\scss\\landing-screens\\_auth.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\landing-screens\\_auth.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\scss\\mixins\\.DS_Store",
+      "PackagePath": "staticwebassets\\Admin\\scss\\mixins\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\scss\\mixins\\_animation.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\mixins\\_animation.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\scss\\mixins\\_badges.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\mixins\\_badges.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\scss\\mixins\\_blockqoute.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\mixins\\_blockqoute.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\scss\\mixins\\_cards.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\mixins\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\scss\\mixins\\_misc.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\mixins\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\vendors\\.DS_Store",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\vendors\\base\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\base\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\vendors\\base\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\base\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\vendors\\base\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\base\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\vendors\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\vendors\\datatables.net\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\datatables.net\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\mdi\\css\\materialdesignicons.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\Admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\css\\style.min.css",
+      "PackagePath": "staticwebassets\\css\\style.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\img\\carousel-1.jpg",
+      "PackagePath": "staticwebassets\\img\\carousel-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\img\\carousel-2.jpg",
+      "PackagePath": "staticwebassets\\img\\carousel-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\img\\carousel-3.jpg",
+      "PackagePath": "staticwebassets\\img\\carousel-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\img\\cat-1.jpg",
+      "PackagePath": "staticwebassets\\img\\cat-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\img\\cat-2.jpg",
+      "PackagePath": "staticwebassets\\img\\cat-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\img\\cat-3.jpg",
+      "PackagePath": "staticwebassets\\img\\cat-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\img\\cat-4.jpg",
+      "PackagePath": "staticwebassets\\img\\cat-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\img\\offer-1.jpg",
+      "PackagePath": "staticwebassets\\img\\offer-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\img\\offer-2.jpg",
+      "PackagePath": "staticwebassets\\img\\offer-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\img\\payments.png",
+      "PackagePath": "staticwebassets\\img\\payments.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\img\\product-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\img\\product-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\img\\product-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\img\\product-4.jpg",
+      "PackagePath": "staticwebassets\\img\\product-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\img\\product-5.jpg",
+      "PackagePath": "staticwebassets\\img\\product-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\img\\product-6.jpg",
+      "PackagePath": "staticwebassets\\img\\product-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\img\\product-7.jpg",
+      "PackagePath": "staticwebassets\\img\\product-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\img\\product-8.jpg",
+      "PackagePath": "staticwebassets\\img\\product-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\img\\product-9.jpg",
+      "PackagePath": "staticwebassets\\img\\product-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\img\\user.jpg",
+      "PackagePath": "staticwebassets\\img\\user.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\img\\vendor-1.jpg",
+      "PackagePath": "staticwebassets\\img\\vendor-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\img\\vendor-2.jpg",
+      "PackagePath": "staticwebassets\\img\\vendor-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\img\\vendor-3.jpg",
+      "PackagePath": "staticwebassets\\img\\vendor-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\img\\vendor-4.jpg",
+      "PackagePath": "staticwebassets\\img\\vendor-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\img\\vendor-5.jpg",
+      "PackagePath": "staticwebassets\\img\\vendor-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\img\\vendor-6.jpg",
+      "PackagePath": "staticwebassets\\img\\vendor-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\img\\vendor-7.jpg",
+      "PackagePath": "staticwebassets\\img\\vendor-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\img\\vendor-8.jpg",
+      "PackagePath": "staticwebassets\\img\\vendor-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\lib\\animate\\animate.min.css",
+      "PackagePath": "staticwebassets\\lib\\animate\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\mail\\contact.js",
+      "PackagePath": "staticwebassets\\mail\\contact.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\mail\\contact.php",
+      "PackagePath": "staticwebassets\\mail\\contact.php"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\mail\\jqBootstrapValidation.min.js",
+      "PackagePath": "staticwebassets\\mail\\jqBootstrapValidation.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\_code.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_code.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_custom-forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\_input-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_jumbotron.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\_media.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_media.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\_print.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_print.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_size.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_align.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_display.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_interactions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_interactions.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_overflow.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_overflow.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_text.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\signalr\\dist\\browser\\signalr.js",
+      "PackagePath": "staticwebassets\\signalr\\dist\\browser\\signalr.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\wwwroot\\signalr\\dist\\browser\\signalr.min.js",
+      "PackagePath": "staticwebassets\\signalr\\dist\\browser\\signalr.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Shop.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Shop.props",
+      "PackagePath": "build\\Shop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Shop.props",
+      "PackagePath": "buildMultiTargeting\\Shop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Shop.props",
+      "PackagePath": "buildTransitive\\Shop.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

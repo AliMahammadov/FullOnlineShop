@@ -1,0 +1,19 @@
+﻿@using Shop.Models.HomeShop;
+@using Shop.ViewModels.HomeShopVM.BrandVM;
+@{
+    ViewData["Title"] = "Create";
+}
+@model CreateBrandVM
+
+<div>
+    <form method="post" enctype="multipart/form-data">
+        <div class="form-group">
+            <label asp-for="Image" >Image</label>
+            <input asp-for="Image" accept="image/*" class="form-control" id="formGroupExampleInput" placeholder="Example input">
+            <span class="btn text-danger" asp-validation-for="Image"></span>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Sign in</button>
+    </form>
+</div>
+
