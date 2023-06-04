@@ -96,24 +96,24 @@ public class AccountController : Controller
     //    await _roleManager.CreateAsync(new IdentityRole { Name = "Admin" });
     //    return View();
     //}
-    public async Task<IActionResult> Test()
-    {
-        var user = await _userManager.FindByNameAsync("nezi");
-        await _userManager.AddToRoleAsync(user, "Member");
-        //user = await _userManager.FindByNameAsync("Vali");
-        //await _userManager.AddToRoleAsync(user, "Member");
-        //    //    //ozumuze admin yaratmq ucun
-        //AppUser user = new AppUser
-        //{
-        //    FirstName = "admin",
-        //    LastName = "admin",
-        //    UserName = "admin",
-        //    Email = "tu6hwwz7l@code.edu.az"
-        //};
-        //await _userManager.CreateAsync(user, "Admin123");
-        //await _userManager.AddToRoleAsync(user, "Admin");
-        return View();
-        }
+    //public async Task<IActionResult> Test()
+    //{
+    //    var user = await _userManager.FindByNameAsync("Zaur");
+    //    await _userManager.AddToRoleAsync(user, "Admin");
+    //    //user = await _userManager.FindByNameAsync("Vali");
+    //    //await _userManager.AddToRoleAsync(user, "Member");
+    //    //    //    //ozumuze admin yaratmq ucun
+    //    //AppUser user = new AppUser
+    //    //{
+    //    //    FirstName = "admin",
+    //    //    LastName = "admin",
+    //    //    UserName = "admin",
+    //    //    Email = "tu6hwwz7l@code.edu.az"
+    //    //};
+    //    //await _userManager.CreateAsync(user, "Admin123");
+    //    //await _userManager.AddToRoleAsync(user, "Admin");
+    //    return View();
+    //    }
         public async Task<IActionResult> AccessDenied() //error seyfesin gosterir
     {
 

@@ -53,7 +53,9 @@ namespace Shop.Areas.Manage.Controllers.HomeShopConterller
                 file.CopyTo(stream);
             }
 
-        Brand brand = new Brand { Image=brandVM.Image,ImgUrl=fileName};
+        Brand brand = new Brand {
+            Image=brandVM.Image,
+            ImgUrl=fileName};
             brand.Image = brandVM.Image;
             _context.Brands.Add(brand);
             _context.SaveChanges();

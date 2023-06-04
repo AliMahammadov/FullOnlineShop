@@ -23,6 +23,7 @@ namespace Shop.Controllers
             {
                 Brands = _context.Brands.ToList(),
                 Products= _context.Products.ToList(),
+                
 
             };
 
@@ -31,7 +32,7 @@ namespace Shop.Controllers
         public IActionResult SendMail()
         
         {
-            _emailService.Send("isgndrovafsun@gmail.com",
+            _emailService.Send("e.mehemmedov99@gmail.com",
                 "ayfon 14 boro maks",
                 "indi endirimdedir");
             return View();

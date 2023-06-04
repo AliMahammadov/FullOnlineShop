@@ -1,0 +1,51 @@
+﻿@using Shop.Models.HomeShop;
+@using Shop.ViewModels.HomeShopVM.ProductVM;
+@{
+    ViewData["Title"] = "Create";
+}
+@model CreateProductVM
+
+<div>
+    <form method="post" enctype="multipart/form-data">
+        <div class="form-group">
+            <label asp-for="Image">Image</label>
+            <input asp-for="Image" accept="image/*" class="form-control" id="formGroupExampleInput" placeholder="Example input">
+            <span class="btn text-danger" asp-validation-for="Image"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Name">Name</label>
+            <input asp-for="Name" accept="Name/*" class="form-control" id="formGroupExampleInput" placeholder="Example input">
+            <span class="btn text-danger" asp-validation-for="Name"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="InitialPrice">InitialPrice</label>
+            <input asp-for="InitialPrice" accept="InitialPrice/*" class="form-control" id="formGroupExampleInput" placeholder="Example input">
+            <span class="btn text-danger" asp-validation-for="InitialPrice"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="FinalPrice">FinalPrice</label>
+            <input asp-for="FinalPrice" accept="FinalPrice/*" class="form-control" id="formGroupExampleInput" placeholder="Example input">
+            <span class="btn text-danger" asp-validation-for="FinalPrice"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Quantity">Quantity</label>
+            <input asp-for="Quantity" accept="Quantity/*" class="form-control" id="formGroupExampleInput" placeholder="Example input">
+            <span class="btn text-danger" asp-validation-for="Quantity"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="CategoryProducts">Category</label>
+            <select asp-for=CategoryProducts class="form-control" id="exampleFormControlSelect1">
+                <option>1</option>
+                <option>2</option>
+                <option>3</option>
+                <option>4</option>
+                <option>5</option>
+            </select>
+            <span class="btn text-danger" asp-validation-for="CategoryProducts"></span>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Sign in</button>
+    </form>
+</div>
+

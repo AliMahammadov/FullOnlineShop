@@ -10196,11 +10196,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\Shop.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\NewShop\\Shop\\Shop.csproj",
       "projectName": "Shop",
-      "projectPath": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\Shop.csproj",
+      "projectPath": "C:\\Users\\user\\Desktop\\NewShop\\Shop\\Shop.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\OnlineShop\\Shop\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\NewShop\\Shop\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
