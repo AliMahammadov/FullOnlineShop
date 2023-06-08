@@ -212,47 +212,20 @@
                             </ul>
                         </div>
                     </li>
-                   @* <li class="nav-item">
-                        <a class="nav-link" data-bs-toggle="collapse" href="#ui-basic" aria-expanded="false" aria-controls="ui-basic">
-                            <i class="mdi mdi-circle-outline menu-icon"></i>
-                            <span class="menu-title">Banner</span>
-                            <i class="menu-arrow"></i>
-                        </a>
+                <li class="nav-item">
+                    <a class="nav-link" data-bs-toggle="collapse" href="#ui-basic" aria-expanded="false" aria-controls="ui-basic">
+                        <i class="mdi mdi-circle-outline menu-icon"></i>
+                        <span class="menu-title">Category</span>
+                        <i class="menu-arrow"></i>
+                    </a>
 
-                        <div class="collapse" id="ui-basic">
-                            <ul class="nav flex-column sub-menu">
-                                <li class="nav-item"> <a class="nav-link" asp-area="Admin" asp-controller="Banner" asp-action="Index">List</a></li>
-                                <li class="nav-item"> <a class="nav-link" asp-area="Admin" asp-controller="Banner" asp-action="Create">Create</a></li>
-                            </ul>
-                        </div>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" data-bs-toggle="collapse" href="#ui-basic" aria-expanded="false" aria-controls="ui-basic">
-                            <i class="mdi mdi-circle-outline menu-icon"></i>
-                            <span class="menu-title">Brand</span>
-                            <i class="menu-arrow"></i>
-                        </a>
-
-                        <div class="collapse" id="ui-basic">
-                            <ul class="nav flex-column sub-menu">
-                                <li class="nav-item"> <a class="nav-link" asp-area="Admin" asp-controller="Brand" asp-action="Index">List</a></li>
-                                <li class="nav-item"> <a class="nav-link" asp-area="Admin" asp-controller="Brand" asp-action="Create">Create</a></li>
-                            </ul>
-                        </div>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" data-bs-toggle="collapse" href="#ui-basic" aria-expanded="false" aria-controls="ui-basic">
-                            <i class="mdi mdi-circle-outline menu-icon"></i>
-                            <span class="menu-title">Product</span>
-                            <i class="menu-arrow"></i>
-                        </a>
-                        <div class="collapse" id="ui-basic">
-                            <ul class="nav flex-column sub-menu">
-                                <li class="nav-item"> <a class="nav-link" asp-area="Admin" asp-controller="Mehsul" asp-action="Index">List</a></li>
-                                <li class="nav-item"> <a class="nav-link" asp-area="Admin" asp-controller="Mehsul" asp-action="Create">Create</a></li>
-                            </ul>
-                        </div>
-                    </li>*@
+                    <div class="collapse" id="ui-basic">
+                        <ul class="nav flex-column sub-menu">
+                            <li class="nav-item"> <a class="nav-link" asp-area="Manage" asp-controller="Category" asp-action="Index">List</a></li>
+                            <li class="nav-item"> <a class="nav-link" asp-area="Manage" asp-controller="Category" asp-action="Create">Create</a></li>
+                        </ul>
+                    </div>
+                </li>
                 </ul>
             </nav>
             @RenderBody()

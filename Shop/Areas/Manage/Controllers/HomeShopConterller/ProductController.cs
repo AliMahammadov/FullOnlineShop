@@ -52,7 +52,7 @@ namespace Shop.Areas.Manage.Controllers.HomeShopConterller
             {
             Name = productVM.Name,
             Image = productVM.Image,
-            ImgUrl = productVM.ImgUrl,
+            ImgUrl = fileName,
             InitialPrice = productVM.InitialPrice,
             FinalPrice = productVM.FinalPrice,
             CategoryProducts = productVM.CategoryProducts,
@@ -60,14 +60,13 @@ namespace Shop.Areas.Manage.Controllers.HomeShopConterller
             };
             product.Name = productVM.Name;
             product.Image = productVM.Image;
-            product.ImgUrl = productVM.ImgUrl;
             product.InitialPrice = productVM.InitialPrice;
             product.FinalPrice = productVM.FinalPrice;
             product.CategoryProducts = productVM.CategoryProducts;
             product.Quantity = productVM.Quantity;
             _context.Products.Add(product);
             _context.SaveChanges();
-            return RedirectToAction("Index","Home");
+            return RedirectToAction("Index");
         }
 
     }

@@ -23,6 +23,7 @@ namespace Shop.Controllers
             {
                 Brands = _context.Brands.ToList(),
                 Products= _context.Products.ToList(),
+                Categories= _context.Categories.ToList(),
                 
 
             };
